@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "blindreview"]
 	path = blindreview
 	url = https://github.com/cran/blindreview
-	shallow = true
-	registered = true
 [submodule "forsearch"]
 	path = forsearch
 	url = https://github.com/cran/forsearch
-	shallow = true
-	registered = true
 [submodule "MVNtestchar"]
 	path = MVNtestchar
 	url = https://github.com/cran/MVNtestchar
-	shallow = true
-	registered = true
 [submodule "SymbolicDeterminants"]
 	path = SymbolicDeterminants
 	url = https://github.com/cran/SymbolicDeterminants
-	shallow = true
-	registered = true
