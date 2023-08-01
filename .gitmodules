@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "blindreview"]
-	path = blindreview
-	url = https://github.com/cran/blindreview
-[submodule "forsearch"]
-	path = forsearch
-	url = https://github.com/cran/forsearch
 [submodule "MVNtestchar"]
 	path = MVNtestchar
 	url = https://github.com/cran/MVNtestchar
 [submodule "SymbolicDeterminants"]
 	path = SymbolicDeterminants
 	url = https://github.com/cran/SymbolicDeterminants
+[submodule "blindreview"]
+	path = blindreview
+	url = https://github.com/cran/blindreview
+[submodule "forsearch"]
+	path = forsearch
+	url = https://github.com/cran/forsearch
